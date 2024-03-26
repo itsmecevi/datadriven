@@ -7,6 +7,7 @@ by: itsmecevi.github.io
 * Without data you are just another person with opinion (Deming)
 
 > => Imagination is more important than knowledge!
+
 ____
 
 
