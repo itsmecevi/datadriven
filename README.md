@@ -4,4 +4,6 @@
 * The world is one big data problem (Andrew Mcafee)
 * Without data you are just another person with opinion (Deming)
 
+> => Imagination is more important than knowledge!
+
 
