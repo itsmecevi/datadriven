@@ -83,6 +83,7 @@ Big data encompasses immense quantities of structured, semi-structured, or unstr
 * Python / R: Programming
 * RDBMS (Relational Database Management System)
 * Apache Spark / Hadoop
+* Cloud: AWS, Google Cloud, Alibaba Cloud, etc
 
 
 => Speed, Accuracy, Cost, People
