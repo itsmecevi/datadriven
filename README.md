@@ -20,6 +20,28 @@ ____
 
 > But wait a minute... isn't there also something called Alternative Data?
 
+**Big data:**
+
+Big data encompasses immense quantities of structured, semi-structured, or unstructured data that surpass the capabilities of conventional data systems such as relational databases and data warehouses for processing due to its complexity.
+
+1. Volume
+2. Variety
+3. Velocity
+
+**Formats of data:**
+
+* Structured data
+* Unstructured data
+
+
+**Examples of alternative data sets/big data are:**
+
+* Satellite data
+* Location data
+* Financial transactions
+* Online browsing activity
+* Social media posts
+* Product reviews
 
 
 
