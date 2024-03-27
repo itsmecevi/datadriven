@@ -36,6 +36,9 @@ ____
 
 * Structured data
 * Unstructured data
+* Mix
+
+____
 
 
 **Examples of alternative data sets/big data are:**
@@ -46,6 +49,9 @@ ____
 * Online browsing activity
 * Social media posts
 * Product reviews
+* Etc
+
+____
 
 **Use Case:**
 
@@ -68,6 +74,9 @@ ____
 * `Disaster Response and Recovery`: Integrating satellite imagery, social media posts, and real-time sensor data to assess damage, prioritize response efforts, and coordinate resources during natural disasters and emergencies.
 * `Water Resource Management`: Using data from river sensors, precipitation forecasts, and water usage patterns to monitor water quality, predict droughts, and optimize water resource allocation for agricultural, industrial, and municipal purposes.
 
+
+____
+
 **General Knowledge:**
 
 * Data Literacy: Understand the basics of data, including concepts such as data types, data formats, data storage, and data manipulation. This involves being able to interpret data visualizations, understand statistical measures, and effectively communicate insights derived from data.
@@ -81,6 +90,8 @@ ____
 * Critical Thinking and Problem-Solving Skills: Cultivate critical thinking skills to identify relevant questions, formulate hypotheses, and design analytical approaches to address business problems or research questions effectively.
 * Communication and Collaboration: Learn how to communicate findings and insights derived from data effectively to diverse audiences, including non-technical stakeholders. Collaborate with cross-functional teams to leverage data-driven insights for decision-making and problem-solving.
 
+____
+
 **Software:**
 
 * Code Free: KNIME, RapidMiner, etc, Tableau, Power BI
@@ -91,6 +102,9 @@ ____
 
 
 => Speed, Accuracy, Cost, People
+
+____
+
 
 **Job opportunities:**
 
@@ -105,12 +119,16 @@ ____
 * Market Research Analyst: Market research analysts collect and analyze data on consumer preferences, market trends, and competitive landscapes to help businesses make informed marketing and product development decisions. They conduct surveys, analyze market data, and prepare reports for stakeholders.
 * Operations Research Analyst: Operations research analysts apply mathematical modeling and optimization techniques to solve complex problems in logistics, supply chain management, and operations. They use data-driven approaches to improve efficiency, reduce costs, and optimize processes.
 
-Core Team:
+> Core Team:
 
-1. BI
-2. Data Science
-3. Data Engineering
-4. AI / ML Enginering
+> 1. BI
+> 2. Data Science
+>3. Data Engineering
+> 4. AI / ML Enginering
+
+____
+
+
 
 
 
