@@ -45,6 +45,9 @@ Big data encompasses immense quantities of structured, semi-structured, or unstr
 
 **Use Case:**
 
+* 'Smart City Planning:' Analyzing alternative data sources such as traffic flow patterns, air quality sensor data, and social media check-ins to optimize urban infrastructure planning, transportation routes, and public services allocation.
+* 
+
 
 
 
