@@ -121,12 +121,20 @@ ____
 
 > Core Team:
 
-> 1. BI
-> 2. Data Science
->3. Data Engineering
-> 4. AI / ML Enginering
+> 1. BI: Excel, SQl, Tableau/Power BI
+> 2. Data Science: Python, ML, Analytics
+>3. Data Engineering: RDBMS, Hadoop/Spark
+> 4. AI / ML Enginering: AI, ML, NN, DL
 
 ____
+
+***Q&A:**
+
+> No 1:
+- Q: What is data-driven decision making?
+- A: Data-driven decision making is a methodology that relies on the systematic collection, analysis, and interpretation of data to guide strategic choices and operational actions within organizations. It involves using empirical evidence derived from data to inform and justify decisions.
+  
+3. 
 
 
 
