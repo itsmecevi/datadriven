@@ -20,6 +20,8 @@ ____
 
 > But wait a minute... isn't there also something called Alternative Data?
 
+____
+
 **Big data:**
 
 Big data encompasses immense quantities of structured, semi-structured, or unstructured data that surpass the capabilities of conventional data systems such as relational databases and data warehouses for processing due to its complexity.
@@ -27,6 +29,8 @@ Big data encompasses immense quantities of structured, semi-structured, or unstr
 1. Volume
 2. Variety
 3. Velocity
+
+____
 
 **Formats of data:**
 
