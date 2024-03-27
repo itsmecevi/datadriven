@@ -1,6 +1,6 @@
 by: itsmecevi.github.io
 
-### Quotes about data:
+**Quotes about data:**
 
 * No data is clean. But most is useful (Dean Abbott)
 * The world is one big data problem (Andrew Mcafee)
