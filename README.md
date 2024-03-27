@@ -81,6 +81,8 @@ Big data encompasses immense quantities of structured, semi-structured, or unstr
 
 * Code Free: KNIME, RapidMiner, etc, Tableau, Power BI
 * Python / R: Programming
+* RDBMS (Relational Database Management System)
+* Apache Spark / Hadoop
 
 
 => Speed, Accuracy, Cost, People
