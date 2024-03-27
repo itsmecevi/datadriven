@@ -11,6 +11,15 @@ by: itsmecevi.github.io
 
 ____
 
-### Datasource:
+**Datasource:**
+
+* Primary data — Data that you create yourself
+* Secondary data — Data that you collect from someone else
+* Internal data — Data that you create, own or control
+* External data — Data from outside sources
+
+> But wait a minute... isn't there also something called Alternative Data?
+
+
 
 
