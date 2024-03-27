@@ -130,7 +130,7 @@ ____
 
 ***Q&A:**
 
-> No 1:
+=>No 1:
 - Q: What is data-driven decision making?
 - A: Data-driven decision making is a methodology that relies on the systematic collection, analysis, and interpretation of data to guide strategic choices and operational actions within organizations. It involves using empirical evidence derived from data to inform and justify decisions.
   
