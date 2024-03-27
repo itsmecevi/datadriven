@@ -88,6 +88,26 @@ Big data encompasses immense quantities of structured, semi-structured, or unstr
 
 => Speed, Accuracy, Cost, People
 
+**Job opportunities:**
+
+* Data Analyst: Data analysts are responsible for collecting, analyzing, and interpreting data to provide actionable insights that drive business decisions. They work with large datasets, perform statistical analysis, and create data visualizations to communicate findings to stakeholders.
+* Data Scientist: Data scientists use advanced analytics and machine learning techniques to extract insights from data and build predictive models. They work on complex data problems, develop algorithms, and collaborate with cross-functional teams to solve business challenges.
+* Business Analyst: Business analysts analyze data to identify business opportunities, optimize processes, and improve performance. They translate business requirements into data-driven solutions, conduct market research, and provide recommendations for strategic decision-making.
+* Data Engineer: Data engineers design and build data pipelines, infrastructure, and systems for ingesting, processing, and storing large volumes of data. They work with big data technologies, develop data architectures, and ensure data quality and reliability.
+* Business Intelligence (BI) Developer: BI developers design and develop dashboards, reports, and data visualization tools to help businesses monitor performance, track key metrics, and make informed decisions. They work with BI platforms and tools to create user-friendly interfaces for data analysis.
+* Machine Learning / AI Engineer: Machine learning engineers develop and deploy machine learning models for predictive analytics, recommendation systems, and pattern recognition tasks. They work on model training, optimization, and deployment in production environments.
+* Quantitative Analyst (Quant): Quants use mathematical and statistical models to analyze financial data, evaluate risk, and develop trading strategies. They work in finance and investment firms, hedge funds, and trading desks to make data-driven investment decisions.
+* Data Architect: Data architects design and implement data architectures, databases, and data management solutions. They define data requirements, ensure data integrity, and develop strategies for data governance and security.
+* Market Research Analyst: Market research analysts collect and analyze data on consumer preferences, market trends, and competitive landscapes to help businesses make informed marketing and product development decisions. They conduct surveys, analyze market data, and prepare reports for stakeholders.
+* Operations Research Analyst: Operations research analysts apply mathematical modeling and optimization techniques to solve complex problems in logistics, supply chain management, and operations. They use data-driven approaches to improve efficiency, reduce costs, and optimize processes.
+
+Core Team:
+
+1. BI
+2. Data Science
+3. Data Engineering
+4. AI / ML Enginering
+
 
 
 
