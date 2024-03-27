@@ -119,22 +119,24 @@ ____
 * Market Research Analyst: Market research analysts collect and analyze data on consumer preferences, market trends, and competitive landscapes to help businesses make informed marketing and product development decisions. They conduct surveys, analyze market data, and prepare reports for stakeholders.
 * Operations Research Analyst: Operations research analysts apply mathematical modeling and optimization techniques to solve complex problems in logistics, supply chain management, and operations. They use data-driven approaches to improve efficiency, reduce costs, and optimize processes.
 
-> Core Team:
+=> Core Team:
 
-> 1. BI: Excel, SQl, Tableau/Power BI
-> 2. Data Science: Python, ML, Analytics
->3. Data Engineering: RDBMS, Hadoop/Spark
-> 4. AI / ML Enginering: AI, ML, NN, DL
+1. BI: Excel, SQl, Tableau/Power BI
+2. Data Science: Python, ML, Analytics
+3. Data Engineering: RDBMS, Hadoop/Spark
+4. AI / ML Enginering: AI, ML, NN, DL
 
 ____
 
-***Q&A:**
+**Q&A:**
 
-=>No 1:
+=> No 1:
 - Q: What is data-driven decision making?
 - A: Data-driven decision making is a methodology that relies on the systematic collection, analysis, and interpretation of data to guide strategic choices and operational actions within organizations. It involves using empirical evidence derived from data to inform and justify decisions.
-  
-3. 
+
+=> No 2: 
+- Q: Why is data-driven decision making important?
+- A: Data-driven decision making is important because it allows organizations to make informed decisions based on evidence rather than intuition or anecdotal experiences. By leveraging data, organizations can uncover valuable insights, identify trends, mitigate risks, and optimize performance, leading to better outcomes and a competitive edge in today's business environment.
 
 
 
