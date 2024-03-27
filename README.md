@@ -48,6 +48,11 @@ Big data encompasses immense quantities of structured, semi-structured, or unstr
 * `Smart City Planning:` Analyzing alternative data sources such as traffic flow patterns, air quality sensor data, and social media check-ins to optimize urban infrastructure planning, transportation routes, and public services allocation.
 * `Crop Yield Prediction`: Utilizing satellite imagery, weather forecasts, soil quality data, and historical agricultural data to predict crop yields, optimize planting schedules, and mitigate risks for farmers and agribusinesses.
 * `Predictive Maintenance in Manufacturing`: Integrating sensor data from machinery, historical maintenance records, and supplier performance data to predict equipment failures, schedule proactive maintenance, and minimize downtime in manufacturing facilities.
+* `Epidemiological Surveillance`: Monitoring alternative data sources including social media chatter, search engine queries for health-related terms, and symptom tracking apps to detect disease outbreaks, track public health trends, and inform disease prevention strategies.
+* Energy Consumption Optimization: Analyzing smart meter data, weather forecasts, building occupancy patterns, and energy market data to optimize energy consumption, predict demand fluctuations, and implement energy-saving measures in commercial and residential buildings.
+* Tourism Demand Forecasting: Leveraging social media check-ins, flight booking data, hotel reservation data, and event attendance records to forecast tourism demand, identify popular destinations, and optimize marketing strategies for travel and hospitality industries.
+* Retail Shelf Space Optimization: Using data from in-store cameras, foot traffic sensors, and customer behavior analysis to optimize retail shelf space allocation, product placement strategies, and inventory management in brick-and-mortar stores.
+* Human Resources Analytics: Incorporating alternative data sources such as employee social media activity, sentiment analysis of internal communications, and employee feedback surveys to assess employee engagement, predict turnover risk, and improve talent management strategies within organizations.
 
 
 
