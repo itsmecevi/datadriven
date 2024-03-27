@@ -77,6 +77,16 @@ Big data encompasses immense quantities of structured, semi-structured, or unstr
 * Critical Thinking and Problem-Solving Skills: Cultivate critical thinking skills to identify relevant questions, formulate hypotheses, and design analytical approaches to address business problems or research questions effectively.
 * Communication and Collaboration: Learn how to communicate findings and insights derived from data effectively to diverse audiences, including non-technical stakeholders. Collaborate with cross-functional teams to leverage data-driven insights for decision-making and problem-solving.
 
+**Software:**
+
+* Code Free: KNIME, RapidMiner, etc, Tableau, Power BI
+* Python / R: Programming
+
+
+=> Speed, Accuracy, Cost, People
+
+
+
 
 
 
