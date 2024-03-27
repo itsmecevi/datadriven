@@ -43,5 +43,9 @@ Big data encompasses immense quantities of structured, semi-structured, or unstr
 * Social media posts
 * Product reviews
 
+**Use Case:**
+
+
+
 
 
