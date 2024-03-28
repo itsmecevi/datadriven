@@ -53,6 +53,8 @@ Alternative Data is non-traditional, big and often unstructured data coming from
 
 Collecting, selecting, interpreting and weighing the Alternative Data implies an algorithmic approach to digital information (i.e. to convert texts into numbers) and consequently specific skills, unique expertise and cutting-edge technology.
 
+Example: [https://alternativedata.org/](https://alternativedata.org/)
+
 ____
 
 **Big data:**
