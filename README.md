@@ -20,6 +20,39 @@ ____
 
 > But wait a minute... isn't there also something called Alternative Data?
 
+
+____
+
+**Alternative data:**
+Alternative Data is non-traditional, big and often unstructured data coming from digital environments:
+
+* Open data
+* Public sector
+* Trade
+* Business Insight
+* B2B
+* Data Aggregator (katadata.co.id, statista.com, etc)
+* Mobile App usage
+* Satellite and Weather
+* Geolocation
+* Internet of things (IoT: “things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet)
+* ESG (Environmental, Social, and Governance): Important for sustainability
+* Advertising
+* Consumer Transaction
+* Consumer Credit
+* Online search
+* Reviews and Rating
+* Event Detection
+* Social Media
+* Sentiment
+* Expert Views
+* Web Crawling
+* Store Location
+* Pricing
+* Employment
+
+Collecting, selecting, interpreting and weighing the Alternative Data implies an algorithmic approach to digital information (i.e. to convert texts into numbers) and consequently specific skills, unique expertise and cutting-edge technology.
+
 ____
 
 **Big data:**
