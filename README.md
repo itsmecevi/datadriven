@@ -114,7 +114,7 @@ ____
 
 **General Knowledge:**
 
-* Data Literacy: Understand the basics of data, including concepts such as data types, data formats, data storage, and data manipulation. This involves being able to interpret data visualizations, understand statistical measures, and effectively communicate insights derived from data.
+* Data Literacy: `data types`, `data formats`, `data storage`, `data manipulation`, `data visualizations`, `statistical measures`, `communicating insights`.
 * Data Analysis and Statistics: Learn statistical techniques and methods for analyzing data, including descriptive statistics, inferential statistics, hypothesis testing, regression analysis, and data modeling. Proficiency in tools like Python, R, or SQL for data analysis is essential.
 * Data Visualization: Master the art of visualizing data to communicate insights effectively. Learn how to create clear and compelling data visualizations using tools like Tableau, Power BI, Matplotlib, or ggplot2.
 * Data Cleaning and Preprocessing: Understand the importance of data cleaning and preprocessing to ensure data quality and reliability. Learn techniques for handling missing data, outlier detection, data transformation, and normalization.
