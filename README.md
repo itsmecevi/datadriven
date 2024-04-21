@@ -136,7 +136,7 @@ ____
 * Cloud: AWS, Google Cloud, Alibaba Cloud, etc
 
 
-=> Speed, Accuracy, Cost, People
+=> People, Accuracy, Cost, Speed
 
 ____
 
@@ -156,10 +156,10 @@ ____
 
 => Core Team:
 
-1. BI: Excel, SQl, Tableau/Power BI
-2. Data Science: Python, ML, Analytics
-3. Data Engineering: RDBMS, Hadoop/Spark
-4. AI / ML Enginering: AI, ML, NN, DL
+1. BI: Excel, SQl, Tableau/Power BI=> `Dashboard, KPI, Insight, Overview, etc`
+2. Data Science: Python, ML, Analytics=> `Deep Insight, Decision-Making, Strategic, etc`
+3. Data Engineering: RDBMS, Hadoop/Spark=> `Infrastructure and Technical Operational`
+4. AI / ML Enginering: AI, ML, NN, DL=> `Deploy ready ML/model/analytics on production (MLOps)`
 
 ____
 
