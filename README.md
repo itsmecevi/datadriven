@@ -260,9 +260,9 @@ ____
 - Q: What are the main types of AI, and how do they function? (e.g., narrow AI, general AI, and superintelligent AI)
 - A: The main types of AI include:
   
-      - Narrow AI (Weak AI): AI systems designed for specific tasks or domains, such as image recognition, natural language processing, or playing chess.
-      - General AI (Strong AI): AI systems with human-level intelligence and the ability to understand, learn, and apply knowledge across a wide range of tasks and domains.
-      - Superintelligent AI: Hypothetical AI systems that surpass human intelligence in all aspects and capabilities. Superintelligent AI is currently a topic of       
+  *  Narrow AI (Weak AI): AI systems designed for specific tasks or domains, such as image recognition, natural language processing, or playing chess.
+  * General AI (Strong AI): AI systems with human-level intelligence and the ability to understand, learn, and apply knowledge across a wide range of tasks and domains.
+  * Superintelligent AI: Hypothetical AI systems that surpass human intelligence in all aspects and capabilities. Superintelligent AI is currently a topic of       
         speculative research and debate.
 
 => No 3:
