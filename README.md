@@ -114,6 +114,7 @@ ____
 
 **General Knowledge:**
 
+* AI/ML/NN/DL: [Data-Driven 1o1](https://docs.google.com/presentation/d/1wpMTvLAXMtpwc2i3vee_-rBLRCDitrq3cdYIAsw7DvY/edit?usp=sharing)
 * Data Literacy: `data types`, `data formats`, `data storage`, `data manipulation`, `data visualizations`, `statistical measures`, `communicating insights`.
 * Data Analysis and Statistics: Learn statistical techniques and methods for analyzing data, including `descriptive statistics`, `inferential statistics`, `hypothesis testing`, `regression analysis`, and `data modeling`. Proficiency in tools like `Python`, `R`, or `SQL` for data analysis is essential.
 * Data Visualization: Master the art of visualizing data to communicate insights effectively. Learn how to create clear and compelling data visualizations using tools like `Tableau`, `Power BI`, `Matplotlib`, or `ggplot2`.
