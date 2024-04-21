@@ -116,7 +116,7 @@ ____
 
 * Data Literacy: `data types`, `data formats`, `data storage`, `data manipulation`, `data visualizations`, `statistical measures`, `communicating insights`.
 * Data Analysis and Statistics: Learn statistical techniques and methods for analyzing data, including `descriptive statistics`, `inferential statistics`, `hypothesis testing`, `regression analysis`, and `data modeling`. Proficiency in tools like `Python`, `R`, or `SQL` for data analysis is essential.
-* Data Visualization: Master the art of visualizing data to communicate insights effectively. Learn how to create clear and compelling data visualizations using tools like Tableau, Power BI, Matplotlib, or ggplot2.
+* Data Visualization: Master the art of visualizing data to communicate insights effectively. Learn how to create clear and compelling data visualizations using tools like `Tableau`, `Power BI`, `Matplotlib`, or `ggplot2`.
 * Data Cleaning and Preprocessing: Understand the importance of data cleaning and preprocessing to ensure data quality and reliability. Learn techniques for handling missing data, outlier detection, data transformation, and normalization.
 * Database Management: Acquire knowledge of database management systems (DBMS) and database querying languages like SQL. Understand how to design and optimize databases, write complex queries, and extract data from relational databases.
 * Machine Learning and Predictive Analytics: Familiarize yourself with machine learning algorithms and techniques for predictive modeling, classification, clustering, and regression analysis. Learn how to implement machine learning models using libraries like scikit-learn, TensorFlow, or PyTorch.
