@@ -166,7 +166,7 @@ ____
 
 **Q&A:**
 
-**Data-Driven:**
+> Data-Driven
 
 => No 1:
 - Q: What is data-driven decision making?
