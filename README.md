@@ -492,6 +492,35 @@ A: Emerging trends and advancements in deep learning research include:
   * Attention Mechanisms: Enhancing model performance by focusing on relevant information.
 
 
+=> No 20
+Q: Which deep learning are chatgpt?
+A: ChatGPT, like its predecessor models GPT-3 and GPT-2, is based on a variant of deep learning called transformer architecture. Specifically, it utilizes a variant of the transformer model developed by OpenAI, which is a type of deep neural network architecture known for its effectiveness in processing sequences of data, such as text.
+
+The transformer architecture, first introduced in the paper "Attention is All You Need" by Vaswani et al. (2017), relies on self-attention mechanisms to capture dependencies between different elements in a sequence. This architecture has been highly successful in various natural language processing (NLP) tasks, including language modeling, text generation, translation, and more.
+
+In the case of ChatGPT, the model is trained on large corpora of text data, allowing it to learn patterns, context, and semantics from the input text. This enables ChatGPT to generate coherent and contextually relevant responses to user queries or prompts, making it well-suited for conversational AI applications.
+
+The most popular Python library for working with transformer-based models is Hugging Face's Transformers library, formerly known as pytorch-transformers and pytorch-pretrained-bert.
+
+
+The Transformers library provides a wide range of pre-trained transformer-based models, including but not limited to:
+BERT (Bidirectional Encoder Representations from Transformers)
+GPT (Generative Pre-trained Transformer)
+GPT-2
+GPT-3
+RoBERTa (Robustly optimized BERT approach)
+DistilBERT
+XLNet
+T5 (Text-To-Text Transfer Transformer)
+BART (BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension)
+and many others.
+
+
+The library supports both PyTorch and TensorFlow backends, allowing users to easily load pre-trained models, fine-tune them on specific tasks, and use them for various natural language processing (NLP) applications such as text classification, question answering, text generation, and more.
+
+- pip install transformers
+
+
 
 
 
