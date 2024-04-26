@@ -339,6 +339,9 @@ ____
     * Support Vector Machines (SVM): Finding the optimal hyperplane that separates classes in high-dimensional space.
     * Random Forest: Ensembling multiple decision trees to improve predictive performance.
 
+=> [ML Algho](https://github.com/itsmecevi/ml-alghorithms)
+=> [ML Mindmap](https://github.com/itsmecevi/ml-mindmap/blob/master/Machine%20Learning.pdf)
+
 
 => No 2:
 - Q: How do machine learning models learn from data, and what role does training and evaluation play?
