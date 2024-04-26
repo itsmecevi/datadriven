@@ -340,6 +340,7 @@ ____
     * Random Forest: Ensembling multiple decision trees to improve predictive performance.
 
 => [ML Algho](https://github.com/itsmecevi/ml-alghorithms)
+
 => [ML Mindmap](https://github.com/itsmecevi/ml-mindmap/blob/master/Machine%20Learning.pdf)
 
 
@@ -359,6 +360,7 @@ ____
   * Precision: The proportion of true positive predictions among all positive predictions.
   * Recall: The proportion of true positive predictions among all actual positive instances.
   * F1 Score: The harmonic mean of precision and recall, balancing between precision and recall.
+  * F2 Score: It's a weighted harmonic mean of precision and recall, where recall is weighted higher than precision.
 
 => No 5:
 - Q: How does unsupervised learning differ from supervised learning, and what are some applications?
