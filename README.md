@@ -368,7 +368,7 @@ ____
 
 => No 6:
 - Q: What are some real-world applications of machine learning across various industries?
-- Real-world applications of machine learning include:
+- A: Real-world applications of machine learning include:
 
   * Healthcare: Medical diagnosis, personalized treatment planning, and drug discovery.
   * Finance: Fraud detection, credit scoring, and algorithmic trading.
@@ -382,6 +382,7 @@ ____
 => No 1: 
 -Q: What are neural networks, and how do they work in machine learning?
 -A: Neural networks are computational models inspired by the structure and function of the human brain. They consist of interconnected nodes (neurons) organized in layers, where each neuron applies a transformation to its inputs and passes the result to the next layer. Neural networks learn from data by adjusting the weights of connections between neurons through a process called backpropagation.
+
 
 => No 2: 
 -Q: What are the main components of a neural network?
