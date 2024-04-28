@@ -380,15 +380,13 @@ ____
 # Neural Network / Deep Learning 
 
 => No 1: 
-
--Q: What are neural networks, and how do they work in machine learning?
-
--A: Neural networks are computational models inspired by the structure and function of the human brain. They consist of interconnected nodes (neurons) organized in layers, where each neuron applies a transformation to its inputs and passes the result to the next layer. Neural networks learn from data by adjusting the weights of connections between neurons through a process called backpropagation.
+- Q: What are neural networks, and how do they work in machine learning?
+- A: Neural networks are computational models inspired by the structure and function of the human brain. They consist of interconnected nodes (neurons) organized in layers, where each neuron applies a transformation to its inputs and passes the result to the next layer. Neural networks learn from data by adjusting the weights of connections between neurons through a process called backpropagation.
 
 
 => No 2: 
--Q: What are the main components of a neural network?
--A: The main components of a neural network include:
+- Q: What are the main components of a neural network?
+- A: The main components of a neural network include:
 
   * Neurons: Individual processing units that receive input signals, apply transformations, and produce output signals.
   * Layers: Groups of neurons organized into input, hidden, and output layers, where each layer performs specific computations.
